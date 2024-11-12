@@ -14,10 +14,12 @@ Custom LaTeX template for project reports. It includes sections for title pages,
 ## Usage
 
 1. Clone or download the repository.
-2. Modify the `Edit_this.tex` file for project-specific details.
-3. Modify the files under `main_pages/`, which contains the content of the project (Abbreviations, Abstract, Chapters).
-4. Update the `refbib.bib` file with your references.
-5. Compile the LaTeX file using a LaTeX editor or online platforms like Overleaf.
+2. Extract the file.
+3. Open the folder in a TeX editor.
+4. Modify the `Edit_this.tex` file for project-specific details.
+5. Modify the files under `main_pages/`, which contains the content of the project (Abbreviations, Abstract, Chapters).
+6. Update the `refbib.bib` file with your references.
+7. Compile the LaTeX file using a LaTeX editor or online platforms like Overleaf.
 
 ## Structure
 
